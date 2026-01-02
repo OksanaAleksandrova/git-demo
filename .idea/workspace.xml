@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c33c171f-dfbf-4c1f-8b8c-32f157984292" name="Changes" comment="внесены изменения 123.txt, test2.txt">
-      <change beforePath="$PROJECT_DIR$/.idea/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/test.txt" afterDir="false" />
-    </list>
+    <list default="true" id="c33c171f-dfbf-4c1f-8b8c-32f157984292" name="Changes" comment="внесены изменения test.txt" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +25,12 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "OksanaAleksandrova"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/OksanaAleksandrova/git-demo.git",
@@ -48,6 +52,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "git-widget-placeholder": "newbranch",
     "javascript.preferred.runtime.type.id": "node",
@@ -121,7 +126,15 @@
       <option name="project" value="LOCAL" />
       <updated>1766674043693</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="внесены изменения test.txt">
+      <option name="closed" value="true" />
+      <created>1767363149884</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1767363149884</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,6 +157,7 @@
     <MESSAGE value="внесены изменения в test.txt" />
     <MESSAGE value="добавлены 123.txt, test2.txt и внесены изменения" />
     <MESSAGE value="внесены изменения 123.txt, test2.txt" />
-    <option name="LAST_COMMIT_MESSAGE" value="внесены изменения 123.txt, test2.txt" />
+    <MESSAGE value="внесены изменения test.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="внесены изменения test.txt" />
   </component>
 </project>
