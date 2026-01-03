@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c33c171f-dfbf-4c1f-8b8c-32f157984292" name="Changes" comment="clear branch master">
-      <change afterPath="$PROJECT_DIR$/p1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p5.txt" afterDir="false" />
-    </list>
+    <list default="true" id="c33c171f-dfbf-4c1f-8b8c-32f157984292" name="Changes" comment="part of work 1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="branch-1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -45,7 +41,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "branch-1",
+    "git-widget-placeholder": "branch-1-merge-branch-2",
     "javascript.preferred.runtime.type.id": "node",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -124,7 +120,15 @@
       <option name="project" value="LOCAL" />
       <updated>1767454113300</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="part of work 1">
+      <option name="closed" value="true" />
+      <created>1767454444493</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1767454444493</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,6 +152,7 @@
     <MESSAGE value="добавлены 123.txt, test2.txt и внесены изменения" />
     <MESSAGE value="внесены изменения 123.txt, test2.txt" />
     <MESSAGE value="clear branch master" />
-    <option name="LAST_COMMIT_MESSAGE" value="clear branch master" />
+    <MESSAGE value="part of work 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="part of work 1" />
   </component>
 </project>
